@@ -1,6 +1,6 @@
 # Parrallax-Moon-Light
  
-Сайт с эффектом parallax.Moon-Light
+Сайт с эффектом parallax
 
 Portfolio-2
 
