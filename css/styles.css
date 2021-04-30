@@ -86,7 +86,9 @@ footer {
     /* transform: translateY(100%); */
     transform: translateX(-100%);
     /* transform: translateX(240%); */
-    border-radius: 1000px;
+    border-radius: 100%;
     width: 250px;
     height: 250px;
+    object-fit: cover;
+    object-position: top;
 }
