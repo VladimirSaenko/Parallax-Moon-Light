@@ -11,11 +11,3 @@
 ### https://vladimirsaenko.github.io/Parallax-effect-Space-and-Moon-Light/sites/Parallax-Moon-Light/index.html
 
 ### }
-
-## Second site {
-
-## https://vladimirsaenko.github.io/Parallax-Moon-Light2/
-
-## https://github.com/VladimirSaenko/Parallax-Moon-Light2
-
-### } 
